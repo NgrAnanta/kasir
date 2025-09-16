@@ -1,1 +1,1 @@
-![alt text](https://github.com/NgrAnanta/kasir/upload?raw=true)
+![alt text]([https://github.com/NgrAnanta/kasir/uploa](https://github.com/NgrAnanta/kasir/blob/master/demo2.png)d?raw=true)
