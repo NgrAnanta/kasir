@@ -1,0 +1,13 @@
+{
+    "name": "ananta/phplatihan1",
+    "description": "kasir",
+    "authors": [
+        {
+            "name": "Ngurah Ananta",
+            "email": "ngurahananta96@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
